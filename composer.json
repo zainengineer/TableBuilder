@@ -11,11 +11,6 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "illuminate/support": "~4"
-    },
-    "require-dev": {
-        "symfony/dom-crawler": "2.5.*@dev",
-        "symfony/css-selector": "2.3.*@dev"
     },
     "autoload": {
         "psr-0": {
