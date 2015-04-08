@@ -13,7 +13,7 @@ Install the package through [Composer](http://getcomposer.org/). Edit your proje
 
 ```php
 "require": {
-	"gloudemans/tablebuilder": "dev-master"
+	"gloudemans/table-builder": "dev-master"
 }
 ```
 
